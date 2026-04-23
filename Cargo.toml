@@ -13,7 +13,7 @@ ark-crypto-primitives = { version = "^0.4.0", default-features = false, features
     "crh",
 ] }
 ark-r1cs-std = { version = "0.4.0", default-features = false } # this is patched at the workspace level
-rand = "0.8.5"
+rand = "0.8.6"
 rs_merkle = "1.4.2"
 ark-relations = "0.4.0"
 ark-groth16 = "0.4.0"
